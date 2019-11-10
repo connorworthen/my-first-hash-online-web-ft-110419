@@ -29,10 +29,10 @@ def adding
                   "oil paintings" => 3
                  }
 
-  shipping_manifest = { "muskets" => 2 }
+  shipping_manifest["muskets"] = 2
 
   shipping_manifest["gun pownder"] = 4
 
-  puts "shipping_manifest"
+  shipping_manifest
 
 end
