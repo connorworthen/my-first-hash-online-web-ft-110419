@@ -33,6 +33,6 @@ def adding
 
   shipping_manifest["gun pownder"] = 4
 
-  puts shipping_manifest
+  puts "shipping_manifest"
   
 end
